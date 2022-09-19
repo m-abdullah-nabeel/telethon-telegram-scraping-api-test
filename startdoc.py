@@ -1,9 +1,9 @@
 from telethon import TelegramClient
 
 # Use your own values from my.telegram.org
-api_id = 18261842
-api_hash = '70c3d71ef896718195312818ac94aa89'
-bot_token = '18261842:70c3d71ef896718195312818ac94aa89'
+api_id = 567432
+api_hash = 'gyhdji73489210gyujbhdjnsay438'
+bot_token = '567432:gyhdji73489210gyujbhdjnsay438'
 
 client = TelegramClient('anon', api_id, api_hash)
 
