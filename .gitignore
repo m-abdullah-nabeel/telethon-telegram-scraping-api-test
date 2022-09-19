@@ -1,4 +1,5 @@
 anon.session
 *.session
+*.session-journal
 venv/
 venv
